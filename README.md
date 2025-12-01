@@ -8,8 +8,6 @@ I'm currently learning IoT.
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaryaboudraf&layout=compact&hide=css,html)
-
-![Zakarya's github stats](https://github-readme-stats.vercel.app/api?username=zakaryaboudraf&count_private=true&show_icons=true&theme=onedark)
+![github_stats](https://github.com/user-attachments/assets/c755a02a-def1-46d1-b8ac-c3bdbd50f773)
 
 </details>
