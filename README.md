@@ -4,8 +4,6 @@ I'm a Web, ML and IoT Developer
 
 I'm currently learning IoT.
 
-<details>
-<summary>⚡️ More about my coding life</summary>
 <br />
 
 ![github_stats](https://github.com/user-attachments/assets/c755a02a-def1-46d1-b8ac-c3bdbd50f773)
